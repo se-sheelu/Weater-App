@@ -17,7 +17,7 @@
     rgba(30, 80, 200, 0.864),
     rgba(15, 60, 150, 0.864)
   );
-  background-image: url(/assets/bg-img.png);
+/*   background-image: url(/assets/bg-img.png); */
   /* background-color: rgba(78, 162, 241, 0.901); */
   background-repeat: no-repeat;
   background-size: cover;
